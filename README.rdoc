@@ -1,28 +1,9 @@
-== README
+In this advanced Rails project, you’ll create a contact manager. The tools that you will use include the following:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Testing with RSpec to drive your development
+Creating view templates with Haml and Sass
+Building reusable view code with helpers and partials
+Refactoring
+Managing authentication and authorization
+Server and client-side validations
+Deployment and monitoring
